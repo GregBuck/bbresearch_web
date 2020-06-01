@@ -21,7 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Order of post meta information
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "Commercial Fisheries Division, Alaska Department of Fish and Game" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
