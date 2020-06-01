@@ -7,12 +7,12 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "Greg Buck"
+  bio = "Greg Buck is the Area Research Biologist for the Bristol Bay Management area, Commercial Fisheries Division, Alaska Department of Fish and Game."
   avatar = "img/avatar.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "Informal website to track the work of hte Bristol Bay Research staff, Comm. Fish. ADF&G" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
