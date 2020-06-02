@@ -6,6 +6,10 @@ slug: c-e-dashboard
 categories:
   - dashboard
 tags: [dashboard]
+menu:
+  main:
+    name: C+E dashboard
+    weight: 10
 description: ''
 thumbnail: ''
 ---
