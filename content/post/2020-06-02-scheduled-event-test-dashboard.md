@@ -10,8 +10,8 @@ description: ''
 thumbnail: ''
 ---
 
-This plot shows daily total cum sockeye count from a mariner query. I'm trying to get query to run at pre-programed
-times. Link [here](https://rpubs.com/gbbuck/623123).
+This plot shows daily total cum sockeye count from a mariner query. I'm trying to get a scheduled task to run at pre-programed
+times that would regenerate the dashboard with a fresh mariner query and redeploy the updated webpage. Link [here](https://rpubs.com/gbbuck/623123).
 
 To get this to work I will need to set up a scheduled task in the Windows 'Task Scheduler' that will execute the following
 tasks in order:  
