@@ -23,3 +23,5 @@ tasks in order:
 5. Close Rstudio.
 6. Close VPN connection.
 
+(update 6/4) After some research it appears that this can't be automated b/c the way Cisco is set up on our laptops.
+you can't open VPN from command line and therefore can't open a VPN connection via task scheduler.
