@@ -8,7 +8,7 @@ tags:
   - dashboard
 menu:
   main:
-    name: Weight dashboard  
+    name: Inseason Projection dashboard  
 description: ''
 thumbnail: ''
 ---
