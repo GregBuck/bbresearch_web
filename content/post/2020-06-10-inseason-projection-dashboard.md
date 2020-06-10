@@ -15,7 +15,7 @@ thumbnail: ''
 
 
 
-Link [here](https://rpubs.com/gbbuck/625540).
+Link [here](https://github.com/GregBuck/bbresearch_web/tree/master/static/Egegik Projection.HTML).
 
 
 
