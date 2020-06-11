@@ -15,7 +15,13 @@ thumbnail: ''
 
 
 
-Link [here](https://github.com/GregBuck/bbresearch_web/tree/master/static/Egegik Projection.HTML).
+Example from last year [here](https://github.com/GregBuck/bbresearch_web/tree/master/static/Egegik Projection.HTML).
 
+
+Developments notes for later:
+
+1. Convert to universal shiny app that would allow users to pick timing range, and years to include in historic dataset. 
+2. Source file for district projections: 'DistrictInSeasonProjection.Rmd'
+3. Source file for baywide projections: 'InSeasonProjection.Rmd'
 
 
