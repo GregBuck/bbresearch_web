@@ -15,7 +15,7 @@ thumbnail: ''
 
 
 
-Example from last year [here](https://github.com/GregBuck/bbresearch_web/tree/master/static/Egegik Projection.HTML).
+Example from last year [here](https://rpubs.com/gbbuck/627140).
 
 
 Developments notes for later:
