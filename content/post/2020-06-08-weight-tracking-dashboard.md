@@ -17,6 +17,8 @@ This tracking dashboard queries the FDMS system and retrieves the weight by ocea
 
 The dashboard is divided in half. The left half is designed to give a graphical comparison of current and historical weights and the right half is designed to display selected statistical measures of current and historical weight data. Graphically, I'm currently using boxplots and violin plots from 'ggformula' package. Currently the dash is using 2012 data as a surrogate for 2020 data for the purpose of designing the dashboard. I Will re-set to once we get sufficient samples 2020 samples in the database. The Mean and Std. Deviation of historic and current data are shown on the right half of the screen.
 
+Historic dataset used for this dashboard is the 'clean' ASL dataset completed in the fall of 2019 ('fish_clean_with_lookups.csv'. All weights are in lbs.
+
 Link [here](https://rpubs.com/gbbuck/625540).
 
 
