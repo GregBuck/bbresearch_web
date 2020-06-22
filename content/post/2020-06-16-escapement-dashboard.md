@@ -15,5 +15,7 @@ thumbnail: ''
 ---
 
 
-[here](https://rpubs.com/gbbuck/628489)
+This dashboard displays cumulative escapement by river with a black line. Upper and lower cumulative SEG goals with historic timing are displayed with a red dashed line. This dashboard is live as of 6/22/20 and will be updated daily. 
+
+Link [here](https://rpubs.com/gbbuck/628489). 
 

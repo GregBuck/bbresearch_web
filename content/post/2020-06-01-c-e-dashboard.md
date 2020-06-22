@@ -16,5 +16,9 @@ thumbnail: ''
 
 
 This data dashboard queries mariner for current harvest and escapement numbers from
-mariner and displays the results in table and plot format. It is currently pulling 
-2019 numbers. I will reset for 2020 once the season starts. Link [here](https://rpubs.com/gbbuck/621138).
+mariner and displays the results in table and plot format. This dashboard went live with
+2020 data on 6/22/2020. I have hidden the harvest dashboard until I can figure out a way to 
+mask confidential numbers.
+
+
+Link [here](https://rpubs.com/gbbuck/621138).
