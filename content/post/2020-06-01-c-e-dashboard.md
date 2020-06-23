@@ -20,5 +20,7 @@ mariner and displays the results in table and plot format. This dashboard went l
 2020 data on 6/22/2020. I have hidden the harvest dashboard until I can figure out a way to 
 mask confidential numbers.
 
+6/23 update: on harvest tab, formatted date into YYYY-MM-DD and added commas to the numbers for easier reading.
+
 
 Link [here](https://rpubs.com/gbbuck/621138).
