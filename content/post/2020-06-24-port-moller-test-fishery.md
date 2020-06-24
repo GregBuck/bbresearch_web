@@ -14,10 +14,10 @@ thumbnail: ''
 I will maintain an archive of all Pt Moller test fish analysize here.
 
 
-13 June Update [here](/CatchUpdateJune_13.pdf).
+13 June Update [here](/CatchUdateJune13.pdf).
 
 19 June [genetics](/PMgeneticsinseasonJune19.pdf)
 
-23 June Update [here](/Catch20Update_June%2023.pdf).
+23 June Update [here](/CatchUpdate_June23.pdf).
 
 
