@@ -11,7 +11,7 @@ thumbnail: ''
 ---
 
 
-I will maintain an archive of all Pt Moller test fish analysize here.
+I will maintain an archive of all Pt Moller test fish updates & genetics here.
 
 updates can be downloaded as .pdf files at the links below
 
