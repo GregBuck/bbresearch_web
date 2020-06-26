@@ -21,3 +21,6 @@ updates can be downloaded as .pdf files at the links below
 24 June [update](/CatchUpdateJune24.pdf).
 24 June [Cumulative Catch index](/CumulativeCatchIndexTable.pdf).
 24 June [raw data](/PortMollerTF_RawDataJune24.pdf).
+25 June [catch update](/CatchUpdateJune25.pdf).
+25 June [raw data](/PortMollerTF_RawDataJune25.pdf).
+
