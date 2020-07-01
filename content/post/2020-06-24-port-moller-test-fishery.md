@@ -33,3 +33,7 @@ updates can be downloaded as .pdf files at the links below
 
 25 June [genetics](/PMgeneticsinseason25June.pdf).
 
+30 June [update](/CatchUpdateJune30.pdf).
+
+30 June [raw data](/PortMollerTF_RawDataJune30.pdf).
+
