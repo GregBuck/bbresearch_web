@@ -6,9 +6,6 @@ slug: inseason projection dashboardeight tracking-dashboard
 categories: []
 tags:
   - dashboard
-menu:
-  main:
-    name: Inseason Projection dashboard  
 description: ''
 thumbnail: ''
 ---

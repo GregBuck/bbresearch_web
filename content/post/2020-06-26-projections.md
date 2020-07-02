@@ -5,6 +5,9 @@ date: '2020-06-26'
 slug: projections
 categories: []
 tags: []
+menu:
+  main:
+    name: Projections  
 description: ''
 thumbnail: ''
 ---
