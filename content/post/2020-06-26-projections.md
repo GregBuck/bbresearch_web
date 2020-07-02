@@ -13,9 +13,8 @@ thumbnail: ''
 ---
 
 
-I will add districts once the total run reaches 200,000 in that district. I will update eastside on even days and westside on odd days.
-I just (29 June) posted the first baywide projection centered on the 2 day late timing that the UW folks are seeing. Expect the next baywide 
-projection on 5 July.
+I will add districts once the total run reaches 200,000 in that district. I will update eastside on odd numbered days and westside on even numbered days.
+projection on 3 July. As of now (7/2) I intend to keep projecting district total runs till we reach the date where historically about 60% of the run has returned. At that point projecting entirely from historical data can be risky.
 
 [Bristol Bay](https://rpubs.com/gbbuck/626414)
 
