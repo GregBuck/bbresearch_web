@@ -45,4 +45,8 @@ updates can be downloaded as .pdf files at the links below
 
 2 July [raw data](/PortMollerTF_RawDataJuly2.pdf).
 
-2 July [catch update](/CatchUpdateJuly2.pdf)
+2 July [catch update](/CatchUpdateJuly2.pdf).
+
+2-3 July [genetics](/PMgeneticsinseason2and3july.pdf).
+
+4 July [genetics](/PMgeneticsinseason4july.pdf).
