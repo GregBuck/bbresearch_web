@@ -14,7 +14,7 @@ thumbnail: ''
 
 
 I will add districts once the total run reaches 200,000 in that district. I will update these projections daily.
-As of now (7/2) I intend to keep projecting district total runs till we reach the date where historically about 60% of the run has returned. At that point projecting entirely from historical data can be risky.
+I will update these projections through the peak of the run. After that point projecting entirely from historical data can be risky.
 
 [Bristol Bay](https://rpubs.com/gbbuck/626414)
 
