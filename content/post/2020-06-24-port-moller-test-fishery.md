@@ -57,3 +57,8 @@ updates can be downloaded as .pdf files at the links below
 
 12 July [raw data](/PortMollerTF_RawDataJuly12.pdf).
 
+13 July [catch update](/CatchUpdate13July.pdf).
+
+13 July [raw data](/PortMollerTF_RawData13July.pdf).
+
+
