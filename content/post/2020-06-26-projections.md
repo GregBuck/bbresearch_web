@@ -14,7 +14,7 @@ thumbnail: ''
 
 
 I will add districts once the total run reaches 200,000 in that district. I will update these projections for as long as the daily run
-summary (DRS) is published (7/19/20).
+summary (DRS) is published.
 
 
 [Bristol Bay](https://rpubs.com/gbbuck/626414)
@@ -27,4 +27,4 @@ summary (DRS) is published (7/19/20).
 
 [Ugashik](https://rpubs.com/gbbuck/636107)
 
-[Togiak](https://rpubs.com/gbbuck/639229)
+[Togiak](https://rpubs.com/gbbuck/639229) Discontinued 7/20 as harvest beyond this date is confidential.
