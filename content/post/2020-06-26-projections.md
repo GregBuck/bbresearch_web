@@ -14,7 +14,7 @@ thumbnail: ''
 
 
 I will add districts once the total run reaches 200,000 in that district. I will update these projections for as long as the daily run
-summary (DRS) is published.
+summary (DRS) is published. Daily run summary and projections end 7/24/20.
 
 
 [Bristol Bay](https://rpubs.com/gbbuck/626414)
