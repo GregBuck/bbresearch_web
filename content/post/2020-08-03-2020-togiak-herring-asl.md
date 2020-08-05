@@ -12,18 +12,9 @@ thumbnail: ''
 ---
 
 
-The 2020 Togiak harvest was sampled by getting 6 (?) 50 lb boxes of herring off the M/V Gordan Jensen and shipped through Dillingham to King Salmon where salmon catch samplers worked them up while waiting for salmon processors to get started.
+The 2020 Togiak harvest was sampled by getting 6 (?) 50 lb boxes of herring off the M/V Gordan Jensen and shipped through Dillingham to King Salmon where salmon catch samplers worked them up while waiting for salmon processors to get started. We ended up with ~900 useable samples.
 
-```{r}
-
-library(ggformula)
-setwd("~/2020 Herring")
-dat <- read.csv("combined.samples.csv")
-tmp <- subset(dat,age<28)
-gf_boxplot(weight~age, group = ~age, data = tmp)
-
-```
-
-Figure 1. boxplot of 2020 Togiak herring weight at age.
+Data are explored [here](https://rpubs.com/gbbuck/646125)
 
 
+Data [here](/combined.samples.csv)
