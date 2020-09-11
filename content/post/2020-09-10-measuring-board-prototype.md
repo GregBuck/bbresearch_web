@@ -48,3 +48,7 @@ SPECTRA SYMBOL CORP
 Email:  sales@spectrasymbol.com
 Phone: 801-972-6995 EXT 20  
 Fax: 801-972-8012
+
+
+![test image](IMGP0070.jpg)
+
