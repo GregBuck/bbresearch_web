@@ -29,16 +29,18 @@ The specific requirements were:
 -	At the end of this project an electronic schematic, parts list, and software along with any other design notes and/or drawings developed during this design process will be delivered to the state of Alaska along with any and all intellectual property rights.
 
 
+[User's Manual](/FMBE_v_1_02_Operations_Manual.doc)
 
-
-[User's Manual](FMBE_v_1_02_Operations_Manual.doc)
-
+Sensors that will work with this device:
 
 [EP2](https://mts.partcommunity.com/3d-cad-models/temposonics-ep2-stroke-length-50-3000-mm-mts-sensors?info=mts%2Findustriesensoren%2Fe_serie%2Fe_serie_ep2_asmtab.prj&cwid=8441)
 
 [ThInpot](https://www.spectrasymbol.com/product/thinpot/)
 
 [magnetopot](https://www.spectrasymbol.com/product/magnetopot/)
+
+Currently we own one EP2 sensor. The EP2 sensor costs $400. The Spectrasymbol sensors cost about forty dollars. I recommend buying a few thinpot sensors for testing. Even if the thinpot sensors are not as robust as the EP2 the price difference may make them the more attractive option.
+
 
 Spectrasymbol salesperson's contact info:
 
