@@ -50,5 +50,5 @@ Phone: 801-972-6995 EXT 20
 Fax: 801-972-8012
 
 
-![test image](IMGP0070.jpg)
+![test image](/IMGP0070.jpg)
 
