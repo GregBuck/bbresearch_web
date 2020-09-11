@@ -29,7 +29,7 @@ The specific requirements were:
 -	At the end of this project an electronic schematic, parts list, and software along with any other design notes and/or drawings developed during this design process will be delivered to the state of Alaska along with any and all intellectual property rights.
 
 
-[User's Manual](/FMBE_v_1_02_Operations_Manual.doc)
+[User's Manual](/FMBE_v_1_02_Operators_Manual.doc)
 
 Sensors that will work with this device:
 
