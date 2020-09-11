@@ -50,5 +50,11 @@ Phone: 801-972-6995 EXT 20
 Fax: 801-972-8012
 
 
-![test image](/IMGP0070.jpg)
+![electronics box](/IMG_0387.jpg)
 
+Figure 1. Measuring board electronics.
+
+
+![EP2](/IMG_0368.jpg)
+
+Figure 2. EP2 sensor with (red) magnet.
