@@ -50,7 +50,7 @@ Phone: 801-972-6995 EXT 20
 Fax: 801-972-8012
 
 
-![electronics box](/IMG_0387.jpg)
+![electronics box](/IMG_0367.jpg)
 
 Figure 1. Measuring board electronics.
 
