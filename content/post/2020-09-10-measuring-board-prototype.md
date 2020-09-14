@@ -41,6 +41,7 @@ Sensors that will work with this device:
 
 Currently we own one EP2 sensor. The EP2 sensor costs $400. The Spectrasymbol sensors cost about forty dollars. I recommend buying a few thinpot sensors for testing. Even if the thinpot sensors are not as robust as the EP2 the price difference may make them the more attractive option.
 
+All files archived on the Anchorage network here:
 S:\REG2\GBuck\Bristol Bay\CatchSampling\MeasuringBoard
 
 
