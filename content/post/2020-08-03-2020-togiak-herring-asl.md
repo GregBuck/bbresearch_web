@@ -14,7 +14,7 @@ thumbnail: ''
 
 The 2020 Togiak harvest was sampled by getting 6 (?) 50 lb boxes of herring off the M/V Gordan Jensen and shipped through Dillingham to King Salmon where salmon catch samplers worked them up while waiting for salmon processors to get started. We ended up with ~900 useable samples.
 
-Data are explored [here](https://rpubs.com/gbbuck/646125)
+Data are explored [here](https://rpubs.com/gbbuck/661614)
 
 
 Data [here](/combined.samples.csv)
