@@ -5,7 +5,7 @@ date: '2020-10-01'
 slug: create-r-package
 categories:
   - R
-tags: []
+tags: [R skill]
 description: ''
 thumbnail: ''
 ---
