@@ -36,9 +36,9 @@ To prepare to create an R package, first download and install the 'devtools' pac
 11) restart Rstudio. Project 'test.pkg' will now be recognized as a Git repository and further changes can be managed from within Rstudio.
 
 
-Package is not available for use by the public by downloading the package from GitHub and installing. Example:
+Package is now available for use by the public by downloading the package from GitHub and installing. Example:
 
 
-library(devtools)
-install_github("GregBuck/test.pkg")
+library(devtools)  
+install_github("GregBuck/test.pkg")  
 library(test.pkg)
