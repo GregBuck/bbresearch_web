@@ -34,3 +34,11 @@ To prepare to create an R package, first download and install the 'devtools' pac
 10) create an empty 'test.pkg' repository on your GitHub account. Add local files to this repository (easiest way is just to drag and drop). 
 
 11) restart Rstudio. Project 'test.pkg' will now be recognized as a Git repository and further changes can be managed from within Rstudio.
+
+
+Package is not available for use by the public by downloading the package from GitHub and installing. Example:
+
+
+library(devtools)
+install_github("GregBuck/test.pkg")
+library(test.pkg)
