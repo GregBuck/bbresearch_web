@@ -42,3 +42,7 @@ Package is now available for use by the public by downloading the package from G
 library(devtools)  
 install_github("GregBuck/test.pkg")  
 library(test.pkg)
+
+Some useful links:  
+https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/  
+https://kbroman.org/pkg_primer/pages/github.html
