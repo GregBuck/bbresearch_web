@@ -22,3 +22,5 @@ thumbnail: ''
 
 [Alagnak](https://rpubs.com/gbbuck/683361)
 
+[Egegik](https://rpubs.com/gbbuck/683366)
+
