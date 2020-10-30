@@ -16,23 +16,20 @@ thumbnail: ''
 
 
 
-[Kvichak](https://rpubs.com/gbbuck/674552)
+[Kvichak](https://rpubs.com/gbbuck/683725)
 
-[Naknek](https://rpubs.com/gbbuck/683356)
+[Naknek](https://rpubs.com/gbbuck/683727)
 
-[Alagnak](https://rpubs.com/gbbuck/683361)
+[Alagnak](https://rpubs.com/gbbuck/683731)
 
-[Egegik](https://rpubs.com/gbbuck/683366)
+[Egegik](https://rpubs.com/gbbuck/683738)
 
-[Ugashik](https://rpubs.com/gbbuck/683368)
+[Ugashik](https://rpubs.com/gbbuck/683743)
 
-[Nushagak](https://rpubs.com/gbbuck/683374)
+[Nushagak](https://rpubs.com/gbbuck/683753)
 
-[Igushik](https://rpubs.com/gbbuck/683376)
+[Wood](https://rpubs.com/gbbuck/683758)
 
-[Wood](https://rpubs.com/gbbuck/683402)
+[Igushik](https://rpubs.com/gbbuck/683763)
 
-[Togiak](https://rpubs.com/gbbuck/683413)
-
-
-
+[Togiak](https://rpubs.com/gbbuck/683765)
