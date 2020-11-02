@@ -26,10 +26,10 @@ thumbnail: ''
 
 [Ugashik](https://rpubs.com/gbbuck/683743)
 
-[Nushagak](https://rpubs.com/gbbuck/683753)
+[Nushagak]()
 
-[Wood](https://rpubs.com/gbbuck/683758)
+[Wood]()
 
-[Igushik](https://rpubs.com/gbbuck/683763)
+[Igushik]()
 
-[Togiak](https://rpubs.com/gbbuck/683765)
+[Togiak]()
