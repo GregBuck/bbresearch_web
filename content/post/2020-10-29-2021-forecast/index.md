@@ -12,6 +12,7 @@ thumbnail: ''
 ---
 
 
+Preliminary results for the 2021 Bristol Bay forecast are posted below for everyone's inspection. Each of these files show the output of the six forecast model in each of the major age classes (1.2, 1.3, 2.2, and 2.3) for each river that we maintain a brood table for.  
 
 
 
