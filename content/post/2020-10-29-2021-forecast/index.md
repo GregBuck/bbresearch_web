@@ -34,3 +34,8 @@ Preliminary results for the 2021 Bristol Bay forecast are posted below for every
 [Igushik](https://rpubs.com/gbbuck/683763)
 
 [Togiak](https://rpubs.com/gbbuck/683765)
+
+
+Stacy and Jordan have done the traditional forecast spreadsheets for 2021. They are located on the network here:
+
+S:\REG2\BBsalmon\FORECAST\2021\Traditional Rivers Spreadsheets
