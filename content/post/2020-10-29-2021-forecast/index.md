@@ -14,16 +14,15 @@ thumbnail: ''
 
 Preliminary results for the 2021 Bristol Bay forecast are posted below for everyone's inspection. Each of these files show the output of the six forecast model in each of the major age classes (1.2, 1.3, 2.2, and 2.3) for each river that we maintain a brood table for. This model output is posted without comment. Later this week research staff will be adding comments to each age/river forecast with our preliminary thoughts regarding model selection. We will be making those annotations in enough time that staff can review them prior to Friday's meeting. Please don't hesitate to contact me if you need help interpreting these files or if you spot any errors. Thanks.
 
+[Ugashik](https://rpubs.com/gbbuck/683743)
 
-[Kvichak](https://rpubs.com/gbbuck/683725)
+[Egegik](https://rpubs.com/gbbuck/683738)
 
 [Naknek](https://rpubs.com/gbbuck/683727)
 
 [Alagnak](https://rpubs.com/gbbuck/683731)
 
-[Egegik](https://rpubs.com/gbbuck/683738)
-
-[Ugashik](https://rpubs.com/gbbuck/683743)
+[Kvichak](https://rpubs.com/gbbuck/683725)
 
 [Nushagak](https://rpubs.com/gbbuck/683753)
 
