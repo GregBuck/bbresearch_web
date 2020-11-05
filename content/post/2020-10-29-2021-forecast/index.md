@@ -27,7 +27,7 @@ Preliminary results for the 2021 Bristol Bay forecast are posted below for every
 
 [Nushagak](https://rpubs.com/gbbuck/683753)
 
-[Wood](https://rpubs.com/gbbuck/685710)
+[Wood](https://rpubs.com/gbbuck/683758)
 
 [Igushik](https://rpubs.com/gbbuck/683763)
 
