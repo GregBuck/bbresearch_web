@@ -1,0 +1,31 @@
+---
+title: 2021 Escapement Goal Review
+author: Greg Buck
+date: '2020-11-20'
+slug: []
+categories:
+  - Data
+tags: []
+description: ''
+thumbnail: ''
+---
+
+
+Initial stock recruit [analysis](https://rpubs.com/gbbuck/693278)
+
+
+Proposed Timeline:
+
+
+November 20, 2020	First EG Committee Meeting
+TBD			Second EG Committee Meeting (as needed)
+mid March?		Draft EG memo to Regional Supervisors
+late March?		EG memo to Deputy Directors
+April 1?		EG Recommendations released to public
+April 24		BOF Proposal Deadline
+Sept 1?		Draft of EG Report for Committee Review
+Sept 15?		DRAFT SOC memo to Regional Supervisors
+Oct 1?			SOC memo to Deputy Directors
+October 20–21	Work Session (Anchorage)
+Nov 14?		Final Report Sent to BOF
+Nov 28 – Dec 2	BOF Meeting in Anchorage
