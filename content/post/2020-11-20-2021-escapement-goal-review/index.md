@@ -11,8 +11,14 @@ thumbnail: ''
 ---
 
 
-Initial stock recruit [analysis](https://rpubs.com/gbbuck/693278)
+Initial stock recruit is completed and is available in three formats (html, word and pdf) at the links below.
 
+
+[Web page](https://rpubs.com/gbbuck/698077)
+
+[pdf](/RS_output2.pdf)
+
+[word](/RS_output.docx)
 
 Proposed Timeline:
 
