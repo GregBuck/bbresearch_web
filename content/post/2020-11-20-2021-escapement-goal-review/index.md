@@ -39,3 +39,6 @@ Nov 28 – Dec 2	BOF Meeting in Anchorage
 
 
 [Escapement goal dashboard](https://hamachan.shinyapps.io/Spawner_Recruit_Bayes/)
+
+
+The Nushagak Chinook escapement goal (draft) recommendations are [here](Nushagak Chinook Salmon S-R Summary.docx)
