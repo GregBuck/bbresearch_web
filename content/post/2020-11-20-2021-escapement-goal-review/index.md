@@ -42,3 +42,5 @@ Nov 28 – Dec 2	BOF Meeting in Anchorage
 
 
 The Nushagak Chinook escapement goal (draft) recommendations are [here](/Nushagak Chinook Salmon S-R Summary.docx)
+
+The Nushagak Chinook escapement goal (final) recommendations are [here](/Nushagak Chinook Salmon S-R Summary_Final.docx)
