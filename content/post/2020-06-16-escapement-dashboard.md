@@ -1,7 +1,7 @@
 ---
 title: Escapement Dashboard
 author: Greg Buck
-date: '2020-06-16'
+date: '2021-06-22'
 slug: escapement-dashboard
 categories:
   - dashboard
@@ -15,9 +15,9 @@ thumbnail: ''
 ---
 
 
-This dashboard displays cumulative escapement by river with a black line. Upper and lower cumulative SEG goals with historic timing are displayed with a red dashed line. This dashboard is live as of 6/22/20 and will be updated daily. 
+This dashboard displays cumulative escapement by river with a black line. Upper and lower cumulative SEG goals with historic timing are displayed with a red dashed line. This dashboard is live as of 6/22/21 and will be updated daily. 
 
-6/23 update: extend graphs X-axis through the date where cumulative historical proportion is < 0.95. Added tab for Kvichak (there is only one number so it doesn't display well at this point.)
+6/23/20 update: extend graphs X-axis through the date where cumulative historical proportion is < 0.95. Added tab for Kvichak (there is only one number so it doesn't display well at this point.)
 
-Link [here](https://rpubs.com/gbbuck/634147). 
+Link [here](https://rpubs.com/gbbuck/784302). 
 
