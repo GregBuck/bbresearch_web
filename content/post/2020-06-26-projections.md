@@ -1,7 +1,7 @@
 ---
 title: Projections
 author: Greg Buck
-date: '2020-06-26'
+date: '2021-06-24'
 slug: projections
 categories: []
 tags: []
@@ -13,18 +13,8 @@ thumbnail: ''
 ---
 
 
-I will add districts once the total run reaches 200,000 in that district. I will update these projections for as long as the daily run
-summary (DRS) is published. Daily run summary and projections end 7/24/20.
+I will add districts once C+E data streams are established.
 
 
-[Bristol Bay](https://rpubs.com/gbbuck/626414)
+[Egegik](https://rpubs.com/gbbuck/784666)
 
-[Egegik](https://rpubs.com/gbbuck/632861)
-
-[Nushagak](https://rpubs.com/gbbuck/633102)
-
-[Naknek-Kvichak](https://rpubs.com/gbbuck/633429)
-
-[Ugashik](https://rpubs.com/gbbuck/636107)
-
-[Togiak](https://rpubs.com/gbbuck/639229) Discontinued 7/20 as harvest beyond this date is confidential.
