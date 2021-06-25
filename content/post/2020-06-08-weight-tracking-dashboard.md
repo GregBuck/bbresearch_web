@@ -19,7 +19,9 @@ The dashboard is divided in half. The left half is designed to give a graphical 
 
 Historic dataset used for this dashboard is the 'clean' ASL dataset completed in the fall of 2019 ('fish_clean_with_lookups.csv'. All weights are in lbs.
 
-Link [here](https://rpubs.com/gbbuck/785062).
+Link [here](https://rpubs.com/gbbuck/785062)
+
+PDF version [here](/weight_dashboard.pdf)
 
 
 
