@@ -14,4 +14,8 @@ thumbnail: ''
 ---
 
 This tracking dashboard queries the FDMS system and retrieves the age data from most recent 10 days and displays the data by
-district in stacked bar graphs. Link [here](https://rpubs.com/gbbuck/785089).
+district in stacked bar graphs. 
+
+Link [here](https://rpubs.com/gbbuck/785089).
+
+pdf version [here](/age_dashboard.pdf)
