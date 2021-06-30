@@ -12,8 +12,14 @@ description: ''
 thumbnail: ''
 ---
 
+Things are a bit sluggish at this point with Nushagak shouldering the load at this point but the 300+ Pt Moller index that Scott highlighted the other day means that things should dramatically ramp up in ~5 days or so. Hopefully the eastside will get a reasonable chunk of those fish. So far I see three narratives around the 2021 run:
 
-I will add districts once C+E data streams are established.
+1. Epic Nushagak River run
+
+2. Outsized age 1.2 returns (same as last year)
+
+3. Small fish (same as last year)
+
 
 [Ugashik](https://rpubs.com/gbbuck/785806)
 
