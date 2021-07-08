@@ -19,5 +19,7 @@ This dashboard displays cumulative escapement by river with a black line. Upper 
 
 6/23/20 update: extend graphs X-axis through the date where cumulative historical proportion is < 0.95. Added tab for Kvichak (there is only one number so it doesn't display well at this point.)
 
+7/8/21 update: added Nushagak chum escapement with projections through 20 July.
+
 Link [here](https://rpubs.com/gbbuck/784302). 
 
