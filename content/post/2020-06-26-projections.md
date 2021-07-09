@@ -12,13 +12,16 @@ description: ''
 thumbnail: ''
 ---
 
-Things are a bit sluggish at this point with Nushagak shouldering the load at this point but the 300+ Pt Moller index that Scott highlighted the other day means that things should dramatically ramp up in ~5 days or so. Hopefully the eastside will get a reasonable chunk of those fish. So far I see three narratives around the 2021 run:
+Things are a bit sluggish at this point with Nushagak shouldering the load at this point but the 300+ Pt Moller index that Scott highlighted the other day means that things should dramatically ramp up in ~5 days or so. Hopefully the eastside will get a reasonable chunk of those fish. So far I see a couple of narratives forming around the 2021 run:
 
-1. Epic Nushagak River run
+1. Epic Nushagak River run (new for this year)
 
 2. Outsized age 1.2 returns (same as last year)
 
 3. Small fish (same as last year)
+
+(7/9/21 update)
+4. a return to more normal run timing (?)
 
 
 [Ugashik](https://rpubs.com/gbbuck/785806)
