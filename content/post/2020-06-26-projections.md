@@ -35,4 +35,6 @@ Things are a bit sluggish at this point with Nushagak shouldering the load at th
 [Bristol Bay](https://rpubs.com/gbbuck/786362)
 
 
+NEW (7/9/21)
+[Nushagak Chinook](https://rpubs.com/gbbuck/789607)
 
