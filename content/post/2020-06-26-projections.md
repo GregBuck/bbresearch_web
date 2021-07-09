@@ -12,7 +12,7 @@ description: ''
 thumbnail: ''
 ---
 
-Things are a bit sluggish at this point with Nushagak shouldering the load at this point but the 300+ Pt Moller index that Scott highlighted the other day means that things should dramatically ramp up in ~5 days or so. Hopefully the eastside will get a reasonable chunk of those fish. So far I see a couple of narratives forming around the 2021 run:
+Looks to me like we are about midway through a ~60 M run with more or less average run timing. This would be ~10 M over forecast. So far I see a couple of narratives forming around the 2021 run:
 
 1. Epic Nushagak River run (new for this year)
 
