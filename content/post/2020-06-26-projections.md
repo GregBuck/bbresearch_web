@@ -38,3 +38,4 @@ Looks to me like we are about midway through a ~60 M run with more or less avera
 NEW (7/9/21)
 [Nushagak Chinook](https://rpubs.com/gbbuck/789607)
 
+[Nushagak chum](https://rpubs.com/gbbuck/789644)
