@@ -33,7 +33,7 @@ Looks to me like we are about midway through a ~60 M run with more or less avera
 [Nushagak](https://rpubs.com/gbbuck/785460)
 
 NEW (7/12/21)
-[Togiak](https://rpubs.com/gbbuck/790251)
+[Togiak](https://rpubs.com/gbbuck/790519)
 
 [Bristol Bay](https://rpubs.com/gbbuck/786362)
 
