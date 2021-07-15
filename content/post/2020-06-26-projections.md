@@ -12,7 +12,7 @@ description: ''
 thumbnail: ''
 ---
 
-Looks to me like we are about midway through a ~60 M run with more or less average run timing. This would be ~10 M over forecast. So far I see a couple of narratives forming around the 2021 run:
+(7/15/21) With the dramatic drop off of the PMTF index last night it looks like we are in the late stages of a run that will be in the upper 60m range. This would be ~10 M over forecast. So far I see a couple of narratives forming around the 2021 run:
 
 1. Epic Nushagak River run (new for this year)
 
