@@ -23,6 +23,8 @@ thumbnail: ''
 (7/9/21 update)
 4. a return to more normal run timing (?)
 
+(7/15/21 update)
+BBay, Ugashik and Nushagak projections are discontinued as we are at or near the top end of the historical dataset so projections beyond this point are going to be increasingly speculative and unlikely to be more informative than where we are at at this point. Other projections will continue to be updated daily.
 
 [Ugashik](https://rpubs.com/gbbuck/785806)
 
