@@ -26,6 +26,8 @@ thumbnail: ''
 (7/15/21 update)
 BBay, Ugashik and Nushagak projections are discontinued as we are at or near the top end of the historical dataset so projections beyond this point are going to be increasingly speculative and unlikely to be more informative than where we are at at this point. Other projections will continue to be updated daily.
 
+(7/21/21 update) Discontinued all inseason tracking tools except Togiak projection and C+E dashboard. I will continue daily updates of those through the end of the week.
+
 [Ugashik](https://rpubs.com/gbbuck/785806)
 
 [Egegik](https://rpubs.com/gbbuck/784666)
