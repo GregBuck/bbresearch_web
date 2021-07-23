@@ -28,6 +28,8 @@ BBay, Ugashik and Nushagak projections are discontinued as we are at or near the
 
 (7/21/21 update) Discontinued all inseason tracking tools except Togiak projection and C+E dashboard. I will continue daily updates of those through the end of the week.
 
+(7/23/21 update) Discontinuing all inseason tracking tools. The 2021 Bristol Bay run is about 65m, 127% of preseason forcast. 
+
 [Ugashik](https://rpubs.com/gbbuck/785806)
 
 [Egegik](https://rpubs.com/gbbuck/784666)
