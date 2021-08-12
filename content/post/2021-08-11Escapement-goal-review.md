@@ -1,5 +1,5 @@
 ---
-title: Measuring Board Prototype
+title: Escapement Goal Review
 author: Greg Buck
 date: '2021-08-11'
 slug: escapement goal
@@ -10,4 +10,4 @@ description: ''
 thumbnail: ''
 ---
 
-Stock recruitment analysis [here](http://bbresearch.rbind.io/page/2/)
+Stock recruitment analysis [here](https://rpubs.com/gbbuck/692887)
